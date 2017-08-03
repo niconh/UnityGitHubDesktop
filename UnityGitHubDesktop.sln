@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGitHubDesktop", "UnityGitHubDesktop.csproj", "{1434CCCE-7DAD-6E85-D5F3-A672634E8CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGitHubDesktop.Editor", "UnityGitHubDesktop.Editor.csproj", "{20C46886-9A47-7F72-F28E-690B73D658EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1434CCCE-7DAD-6E85-D5F3-A672634E8CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1434CCCE-7DAD-6E85-D5F3-A672634E8CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1434CCCE-7DAD-6E85-D5F3-A672634E8CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1434CCCE-7DAD-6E85-D5F3-A672634E8CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C46886-9A47-7F72-F28E-690B73D658EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C46886-9A47-7F72-F28E-690B73D658EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C46886-9A47-7F72-F28E-690B73D658EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C46886-9A47-7F72-F28E-690B73D658EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
